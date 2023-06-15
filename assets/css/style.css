@@ -91,13 +91,13 @@ p {
     color: #ffffff;
 }
 
-/* Combined three seperate .benefit selectors into one(benefit-all), as they all share same properties. */
+/* Combined three seperate .benefit h3 selectors into one(benefit-all), as they all share same properties. */
 .benefit-all h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Combined three seperate .benefit selectors into one(benefit-all), as they all share same properties. */
+/* Combined three seperate .benefit img selectors into one(benefit-all), as they all share same properties. */
 .benefit-all img {
     display: block;
     margin: 10px auto;
@@ -114,12 +114,12 @@ p {
     color: #ffffff;
 }
 
-/*Combined three seperate content selectors into one, as they all share same properties.*/
+/*Combined three seperate img selectors into one, as they all share same properties.*/
 .main-content img {
     max-height: 200px;
 }
 
-/*Combined three seperate content selectors into one, as they all share same properties.*/
+/*Combined three seperate h2 selectors into one, as they all share same properties.*/
 .main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
