@@ -5,4 +5,17 @@ As this webpage was already complete and functional, my job was to simply clean 
 
 Link to deployed application: https://jackstendeback.github.io/Accessibility-Search-Engine-Optimization
 
+Screenshots:
+1: <img width="1512" alt="HTML-1-IMAGE" src="https://github.com/JackStendeback/Accessibility-Search-Engine-Optimization/assets/129129990/efdd19dc-742c-4c43-8258-2d4b3c2329a1">
+
+2:<img width="1512" alt="HTML-2-IMAGE" src="https://github.com/JackStendeback/Accessibility-Search-Engine-Optimization/assets/129129990/ebb0b39c-ba30-44c6-8a3b-0ec829cfee81">
+
+
+3:<img width="1512" alt="CSS-1-IMAGE" src="https://github.com/JackStendeback/Accessibility-Search-Engine-Optimization/assets/129129990/8e6093b4-d094-4a4f-9ee5-c5fa6e37dd64">
+
+
+4:<img width="1512" alt="CSS-2-IMAGE" src="https://github.com/JackStendeback/Accessibility-Search-Engine-Optimization/assets/129129990/8d032c59-344b-48f4-8496-743c153391ca">
+
+
+5:<img width="1512" alt="WEBSITE-VIEW" src="https://github.com/JackStendeback/Accessibility-Search-Engine-Optimization/assets/129129990/50f57107-3539-4bf3-ae6b-6da887359740">
 
